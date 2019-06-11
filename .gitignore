@@ -1,0 +1,39 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+.editorconfig
+.project
+.classpath
+*.launch
+.settings/
+*.sublime-workspace
+browserslist
+karma.conf.js
+package-lock.json
+tsconfig.app.json
+tsconfig.spec.json
+tsconfig.json
+tslint.json
+
+# Other files
+/e2e
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.db

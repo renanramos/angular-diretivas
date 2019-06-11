@@ -1,0 +1,16 @@
+mat-card{
+    margin: 50px;
+}
+
+mat-radio-group{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+mat-radio-button{
+    padding-bottom: 20px;
+}
+
+mat-card-footer{
+    margin-left: 5px;
+}
